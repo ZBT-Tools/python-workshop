@@ -1,8 +1,8 @@
 # Python Grundkurs Jupyter Notebooks
 
 In diesem Repository finden sich die Jupyter Notebooks des Python Workshops 
-- 1. Version für den Kurs am 20.01.2025: https://indico.h2fc.center/event/58/
-- 2. Version für den Kurs am 10.12.2025: https://indico.h2fc.center/event/73/
+1. Version für den Kurs am 20.01.2025: https://indico.h2fc.center/event/58/
+2. Version für den Kurs am 10.12.2025: https://indico.h2fc.center/event/73/
   
 Die Kursinhalte sind: 
 - Python und Jupyter Grundlagen (`python_kurs_teil_1.ipynb`)
